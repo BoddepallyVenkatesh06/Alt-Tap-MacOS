@@ -37,4 +37,4 @@ Use the configured shortcut to switch between open applications.
 If you'd like to contribute to this project, please follow the standard GitHub fork/pull request workflow.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the  GPL-3.0 license - see the LICENSE.md file for details.
